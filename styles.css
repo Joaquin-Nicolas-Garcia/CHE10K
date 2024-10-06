@@ -23,7 +23,7 @@ body {
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(images/istockphoto-495122784-612x612.jpg);
+        url(./images/istockphoto-495122784-612x612.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -147,7 +147,7 @@ body {
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(images/argentina-campeon.jpg);
+        url(./images/argentina-campeon.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
